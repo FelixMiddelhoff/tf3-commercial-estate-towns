@@ -1,0 +1,16 @@
+{
+    "authors": [
+        {
+            "name": "Felix",
+            "role": "CREATOR"
+        }
+    ],
+    "description": "EN: Create commercial estates: rename a town so its name starts with \"commerc\" (Commercial, Commerce, ...), \"gewerbe\" or \"[c]\", \"[com]\", \"#com\" (example: \"[c] Centre\"). The town loses all housing and industry and keeps only its commerce. Remove the word from the name and the town gets its housing and industry back. Other towns are not changed. A town with neither housing nor industry and no keyword in its name is restored, also after the mod was switched off in between.\nPlease test it in a new game or on a copy of your savegame first, and send me feedback: github.com/FelixMiddelhoff/tf3-commercial-estate-towns\n\nDE: Commercial-Gebiete erstellen: Eine Stadt so umbenennen, dass ihr Name mit \"commerc\" (Commercial, Commerce, ...), \"gewerbe\" oder \"[c]\", \"[com]\", \"#com\" beginnt (Beispiel: \"[c] Zentrum\"). Die Stadt verliert Wohnen und Industrie und behält nur Gewerbe. Den Begriff wieder aus dem Namen entfernen, und die Stadt bekommt Wohnen und Industrie zurück. Andere Städte bleiben unverändert. Eine Stadt mit weder Wohnen noch Industrie und ohne Stichwort im Namen wird wiederhergestellt, auch wenn der Mod zwischendurch ausgeschaltet war.\nBitte zuerst in einem neuen Spiel oder mit einer Kopie deines Spielstands testen, und gib mir Feedback: github.com/FelixMiddelhoff/tf3-commercial-estate-towns",
+    "name": "Commercial Estate Towns",
+    "summary": "Rename a town to make it commerce only / Stadt umbenennen, damit sie nur Gewerbe hat",
+    "tags": [
+        "Script Mod",
+        "Town Building"
+    ],
+    "url": "https://github.com/FelixMiddelhoff/tf3-commercial-estate-towns"
+}

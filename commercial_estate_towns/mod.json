@@ -1,0 +1,33 @@
+{
+    "dependencies": null,
+    "incompatibilities": null,
+    "modId": "felix_commercial_estate_towns_1",
+    "options": null,
+    "params": [
+        {
+            "defaultIndex": 0,
+            "key": "takeover",
+            "name": "Estate size",
+            "tooltip": "As before: the estate keeps only its own small zone. Takes over: the estate zone gets the space of all three zones of the town.",
+            "uiType": "ComboBox",
+            "values": [
+                "As before (keep the small zone)",
+                "Takes over the space of the other two zones"
+            ],
+            "yearFrom": 0,
+            "yearTo": 0
+        }
+    ],
+    "preRunScript": {
+        "fileName": "felix_commercial_estate_towns_1::/mod.script@preRunFn"
+    },
+    "postRunScript": {
+        "fileName": ""
+    },
+    "revision": 2,
+    "runScript": {
+        "fileName": ""
+    },
+    "severityAdd": "None",
+    "severityRemove": "None"
+}
