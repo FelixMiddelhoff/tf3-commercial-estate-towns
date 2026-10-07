@@ -4,7 +4,7 @@
 
 **EN** | [DE](#deutsch)
 
-**Get it in the in-game Mod Hub** (mod.io): search for "Commercial Estate Towns".
+**Get it in the in-game Mod Hub** (mod.io): [Commercial Estate Towns](https://mod.io/g/transportfever3/m/commercial-estate-towns)
 
 A script mod for Transport Fever 3. Rename a town so that its name starts with a keyword, and the town becomes a **commercial estate**: no housing and industry, only commerce. Remove the keyword again and the town gets its housing and industry back. All other towns stay as they are.
 
@@ -75,7 +75,7 @@ MIT, see [LICENSE](LICENSE).
 
 ## Deutsch
 
-**Im Spiel über den Mod-Hub laden** (mod.io): nach „Commercial Estate Towns“ suchen.
+**Im Spiel über den Mod-Hub laden** (mod.io): [Commercial Estate Towns](https://mod.io/g/transportfever3/m/commercial-estate-towns)
 
 Ein Script-Mod für Transport Fever 3. Benenne eine Stadt so um, dass ihr Name mit einem Stichwort beginnt, und die Stadt wird zum **Gewerbegebiet**: nur noch Gewerbe, kein Rest. Entfernst du das Stichwort wieder, bekommt die Stadt Wohnen und Industrie zurück. Alle anderen Städte bleiben unverändert.
 
